@@ -1,2 +1,2 @@
 # House Price Prediction
-House Price Prediction using Machine Learning with python - Machine Learning Project
+It is a Boston House price prediction system using Machine Learning with Python.
